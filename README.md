@@ -62,3 +62,11 @@
     - In 4BHK as well, we see Mumbai has average price per sq ft higher for flat than independent houses. The difference seems to be almost 2 times the price of independent house.
     - In both types of houses, 4BHK formats seem to be more expensive if they have a balcony.
     - 1 BHK independent house with a balcony is most expensive out of all others.
+### Brief Visuals
+Some sample visuals from the analysis. Please refer to the pdf file attached for full picture
+![image](https://github.com/user-attachments/assets/605cf66e-a0f8-47be-9e86-ce68ce906808)
+![image](https://github.com/user-attachments/assets/7faf68a0-216d-4906-a5c2-b99c34db7fdf)
+![image](https://github.com/user-attachments/assets/42c97527-3302-4905-87bf-f3dfed9e5c59)
+
+
+
